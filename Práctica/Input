@@ -1,0 +1,104 @@
+configurar_cluster 10
+5 3 2 0 8 0 0 0 1 9 0 0 7 4 6 0 0 0 10 0 0
+10
+20
+30
+40
+50
+10
+20
+30
+40
+50
+consultar_usuario patata
+enviar_proceso_a_usuario patata 100 10 10
+consultar_usuario patata
+poner_usuario patata
+consultar_usuario patata
+enviar_proceso_a_usuario patata 100 10 10
+consultar_usuario patata
+consultar_procesador 5
+enviar_procesos_a_cluster 10
+consultar_procesador 1
+consultar_procesador 2
+consultar_procesador 3
+consultar_procesador 4
+consultar_procesador 5
+consultar_procesador 6
+consultar_procesador 7
+consultar_procesador 8
+consultar_procesador 9
+consultar_procesador 10
+consultar_usuario patata
+poner_usuario boniato
+enviar_proceso_a_usuario boniato 101 41 20
+poner_usuario lechuga
+enviar_proceso_a_usuario lechuga 102 1 1
+consultar_usuario boniato
+consultar_usuario lechuga
+enviar_procesos_a_cluster 1
+consultar_usuario boniato
+consultar_usuario lechuga
+consultar_procesador 5
+consultar_procesador 10
+enviar_proceso_a_usuario boniato 103 60 8
+enviar_proceso_a_usuario boniato 104 12 100
+enviar_proceso_a_usuario boniato 105 20 80
+enviar_proceso_a_usuario boniato 106 7 10
+enviar_proceso_a_usuario boniato 107 30 20
+enviar_proceso_a_usuario boniato 108 15 40
+enviar_proceso_a_usuario lechuga 109 30 20
+enviar_proceso_a_usuario lechuga 110 15 40
+consultar_usuario patata
+consultar_usuario boniato
+consultar_usuario lechuga
+enviar_procesos_a_cluster 6
+consultar_usuario patata
+consultar_usuario boniato
+consultar_usuario lechuga
+consultar_procesador 1
+consultar_procesador 2
+consultar_procesador 3
+consultar_procesador 4
+consultar_procesador 5
+consultar_procesador 6
+consultar_procesador 7
+consultar_procesador 8
+consultar_procesador 9
+consultar_procesador 10
+avanzar_tiempo 11
+consultar_procesador 1
+consultar_procesador 2
+consultar_procesador 3
+consultar_procesador 4
+consultar_procesador 5
+consultar_procesador 6
+consultar_procesador 7
+consultar_procesador 8
+consultar_procesador 9
+consultar_procesador 10
+quitar_usuario patata
+quitar_usuario boniato
+consultar_usuario patata
+consultar_usuario boniato
+consultar_usuario lechuga
+poner_proceso_en_procesador 6 boniato 111 1000 10
+consultar_procesador 6
+consultar_usuario boniato
+poner_proceso_en_procesador 6 boniato 112 10 10
+consultar_procesador 6
+consultar_usuario boniato
+quitar_proceso_de_procesador 4 200
+consultar_procesador 4
+quitar_proceso_de_procesador 4 107
+consultar_procesador 4
+configurar_cluster 2
+1 2 0 0 0
+100
+200
+enviar_procesos_a_cluster 100
+consultar_procesador 1
+consultar_procesador 2
+consultar_usuario boniato
+consultar_usuario lechuga
+acabar

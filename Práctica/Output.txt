@@ -1,0 +1,101 @@
+Usuario patata
+Usuario patata
+Usuario patata
+  0
+Usuario patata
+  1 100
+Procesador 5
+Procesador 1
+Procesador 2
+Procesador 3
+Procesador 4
+Procesador 5
+Procesador 6
+Procesador 7
+Procesador 8
+Procesador 9
+Procesador 10
+  0 patata 100 10 10
+Usuario patata
+  0
+Usuario boniato
+  1 101
+Usuario lechuga
+  1 102
+Usuario boniato
+  0
+Usuario lechuga
+  1 102
+Procesador 5
+  0 boniato 101 41 20
+Procesador 10
+  0 patata 100 10 10
+Usuario patata
+  0
+Usuario boniato
+  6 103
+Usuario lechuga
+  3 102
+Usuario patata
+  0
+Usuario boniato
+  2 108
+Usuario lechuga
+  1 110
+Procesador 1
+Procesador 2
+Procesador 3
+Procesador 4
+  0 boniato 107 30 20
+Procesador 5
+  0 boniato 101 41 20
+Procesador 6
+Procesador 7
+Procesador 8
+Procesador 9
+  0 lechuga 109 30 20
+Procesador 10
+  0 patata 100 10 10
+  10 boniato 104 12 100
+  22 boniato 105 20 80
+  42 boniato 106 7 10
+  49 lechuga 102 1 1
+Procesador 1
+Procesador 2
+Procesador 3
+Procesador 4
+  0 boniato 107 30 9
+Procesador 5
+  0 boniato 101 41 9
+Procesador 6
+Procesador 7
+Procesador 8
+Procesador 9
+  0 lechuga 109 30 9
+Procesador 10
+  10 boniato 104 12 89
+  22 boniato 105 20 69
+Usuario patata
+Usuario boniato
+  2 108
+Usuario lechuga
+  1 110
+Procesador 6
+Usuario boniato
+  3 108
+Procesador 6
+  0 boniato 112 10 10
+Usuario boniato
+  3 108
+Procesador 4
+  0 boniato 107 30 9
+Procesador 4
+Procesador 1
+Procesador 2
+  0 boniato 108 15 40
+  15 boniato 103 60 8
+  75 lechuga 110 15 40
+Usuario boniato
+  1 111
+Usuario lechuga
+  0
